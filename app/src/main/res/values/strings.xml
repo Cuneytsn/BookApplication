@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookApplication</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_text">Last name:</string>
+    <string name="last_name_text">Last name:</string>
+    <string name="enter_button_text">Enter</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="please_enter_a_name">Please enter a full name!</string>
+    <string name="app_header">Create an RGB Color</string>
+    <string name="app_sub_header">Add two hexadecimal characters between 0-9, A-F or a-f without the \'#\' for each channel </string>
+    <string name="btn_text">Create RGB COLOR</string>
+    <string name="panel_text">Created color display panel</string>
+    <string name="red_channel_text">Red Channel</string>
+    <string name="green_channel_text">Green Channel</string>
+    <string name="blue_channel_text">Blue Channel</string>
+</resources>
